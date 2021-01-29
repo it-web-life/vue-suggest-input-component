@@ -1,6 +1,8 @@
 # vue-suggest-input-component
 Input Vue component with suggestions
 
+詳細な記事: [Vueでサジェストを自作する時はblurとclickイベントタイミングに注意](https://it-web-life.com/vue_input_suggest_click_blur_timing)
+
 ## Project setup
 ```
 yarn install
